@@ -1,0 +1,1 @@
+this is yet another rss digest generator, but for the sake of compactness it writes the bloom filter it needs back into its own source code on each run. This is convenient for cron purposes because there are fewer paths bouncing around. Also it's just kinda neat to rewrite source code between runs.
